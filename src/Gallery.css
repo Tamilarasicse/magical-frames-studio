@@ -1,17 +1,17 @@
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  padding: 0 12px;
+display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
   margin-top: 30px;
-  justify-content: space-between;
+
 }
 
 .gallery .pic {
-  width: calc(33.333% - 8px);
+
   margin-bottom: 12px;
   cursor: pointer;
   transition: all 350ms ease;
+     
 }
 
 .gallery .pic:hover {
