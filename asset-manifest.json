@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/magical-frames-studio/static/css/main.21982ffb.css",
+    "main.js": "/magical-frames-studio/static/js/main.3ee72360.js",
+    "static/js/488.6b43c126.chunk.js": "/magical-frames-studio/static/js/488.6b43c126.chunk.js",
+    "static/media/birthday.jpg": "/magical-frames-studio/static/media/birthday.abf0c2d378331428ca30.jpg",
+    "static/media/banner.jpeg": "/magical-frames-studio/static/media/banner.3a0e3c917fa986fffc4f.jpeg",
+    "static/media/mp1.jpg": "/magical-frames-studio/static/media/mp1.0c2c82c182f0991abc5b.jpg",
+    "static/media/mp2.jpg": "/magical-frames-studio/static/media/mp2.744ff26ca5d1fc8f3ae2.jpg",
+    "static/media/mp.jpg": "/magical-frames-studio/static/media/mp.dda3da65d1c983edef5a.jpg",
+    "static/media/banner2.jpg": "/magical-frames-studio/static/media/banner2.c80f17c7fc3e27c1ed40.jpg",
+    "static/media/g2.jpg": "/magical-frames-studio/static/media/g2.2ebe8e1bfb1b98536987.jpg",
+    "static/media/g6.jpg": "/magical-frames-studio/static/media/g6.cb66312ad070d4c12f94.jpg",
+    "static/media/banner1.jpg": "/magical-frames-studio/static/media/banner1.75605321bee676df7d37.jpg",
+    "static/media/g4.jpg": "/magical-frames-studio/static/media/g4.c9ac045c1419f6d9d82c.jpg",
+    "static/media/g5.jpg": "/magical-frames-studio/static/media/g5.37d8f4a6dcbab5fd6752.jpg",
+    "static/media/mp3.jpg": "/magical-frames-studio/static/media/mp3.d01905b9d4bbdb16b5f8.jpg",
+    "static/media/bp.jpg": "/magical-frames-studio/static/media/bp.d0a011d07fd1e0181b6a.jpg",
+    "static/media/g3.jpg": "/magical-frames-studio/static/media/g3.685329602fe9bcd7a99e.jpg",
+    "static/media/g1.jpg": "/magical-frames-studio/static/media/g1.acf311ac663473ca782f.jpg",
+    "static/media/1-removebg-preview (1) .png": "/magical-frames-studio/static/media/1-removebg-preview (1) .848276288f499fc95bff.png",
+    "static/media/logo.svg": "/magical-frames-studio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/magical-frames-studio/index.html",
+    "main.21982ffb.css.map": "/magical-frames-studio/static/css/main.21982ffb.css.map",
+    "main.3ee72360.js.map": "/magical-frames-studio/static/js/main.3ee72360.js.map",
+    "488.6b43c126.chunk.js.map": "/magical-frames-studio/static/js/488.6b43c126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21982ffb.css",
+    "static/js/main.3ee72360.js"
+  ]
+}
