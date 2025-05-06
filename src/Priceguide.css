@@ -1,0 +1,209 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .priceguide {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .title {
+    font-family: "Georgia", serif;
+    font-size: 3rem;
+    margin: 20px 0;
+    color: white;
+  }
+  
+  .Marriage {
+    width: 100%;
+    background: #2d2926;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
+  }
+  
+  .Marriage .p1 {
+    width: 50%;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .Marriage .p2 {
+    width: 50%;
+    font-size: 1.5rem;
+    margin: 10px 0;
+    background-color: #2d2926;
+    color: #bfa074;
+  }
+  .Marriage .p2 .head{
+   font-weight: bolder;
+   margin-top: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    background-color: #2d2926;
+  }
+  .Marriage p{
+    background-color: #2d2926;
+    font-size:130%;
+    margin-bottom: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .button{
+    padding: 10px 20px;
+    font-size: 16px;
+    color:#bfa074;
+    background-color: wheat;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* font-size: 4rem; */
+    font-weight: bold;
+    display: inline-block;
+    animation: colorChange 2s infinite linear;
+  }
+  .button:hover {
+    background-color: #bfa074;
+    color: white;
+  }
+  @keyframes colorChange {
+    0% { color: #962911; }   /* Orange */
+    25% { color: #9a7c19; }  /* Yellow */
+    50% { color: #18912e; }  /* Green */
+    75% { color: #165696; }  /* Blue */
+    100% { color: #8d176f; } /* Pink */
+ 
+  }
+  .Others {
+    width: 100%;
+    background: #2d2926;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
+  }
+  
+  .Others  .p1 {
+    width: 50%;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .Others  .p2 {
+    width: 50%;
+    font-size: 1.5rem;
+    margin: 10px 0;
+    background-color: #2d2926;
+    color: #e0c78a;
+  }
+  .Others .p2 .head{
+   font-weight: bolder;
+   margin-top: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    background-color: #2d2926;
+  }
+  .Others p{
+    background-color: #2d2926;
+    font-size:130%;
+    margin-bottom: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .Birthday  {
+    width: 100%;
+    background: #2d2926;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
+  }
+  
+  .Birthday  .p1 {
+    width: 50%;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .Birthday  .p2 {
+    width: 50%;
+    font-size: 1.5rem;
+    margin: 10px 0;
+    background-color: #2d2926;
+    color: #e0c78a;
+  }
+  .Birthday  .p2 .head{
+   font-weight: bolder;
+   margin-top: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    background-color: #2d2926;
+  }
+  .Birthday p{
+    background-color: #2d2926;
+    font-size:130%;
+    margin-bottom: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+
+
+
+
+  
+  /* .price {
+    font-size: 1.8rem;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .package ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .package ul li {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .products {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 40px 0;
+  }
+  
+  .product-category h3 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .product-category ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-category ul li {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .footer {
+    margin: 20px 0;
+    font-size: 0.9rem;
+    color: #777;
+    line-height: 1.5;
+  }
+   */
